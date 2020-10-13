@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LeaveManagementApp</string>
+    <string name="title_activity_main">LeaveManagementApp</string>
+    <string name="package_name">com.leavemanagement.app</string>
+    <string name="custom_url_scheme">com.leavemanagement.app</string>
+</resources>
